@@ -2,7 +2,7 @@ toDoList with Node.js and express and more freemwork
 
 <div>
   <label>Desktop View</label>
-  <img src ="logo.PNG" alt="pic_LOGO" />
+  <img src ="logo.png" alt="pic_LOGO" />
 <div>
 
 start on terminal 
