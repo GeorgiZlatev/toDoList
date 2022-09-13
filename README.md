@@ -1,7 +1,7 @@
 toDoList with Node.js and express and more freemwork
 
 <div>
-  <label>Desktop View</label>
+  <label><b>Desktop View</b></label><br>
   <img src ="logo.png" alt="pic_LOGO" />
 <div>
 
